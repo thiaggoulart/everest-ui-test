@@ -1,0 +1,37 @@
+.add-button {
+    width: 120px;
+    padding: 0.5em;
+}
+
+.add-button img {
+    height: 10px;
+    margin-right: 0.5em;
+}
+
+.add-button span {
+    font-size: 11px;
+}
+
+.input-task {
+    width: 100%;
+    margin-right: 1em;
+    background-color: #FFF;
+    border: none;
+    padding: 0.5em;
+    color: #000;
+}
+
+.container {
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.add-container {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}

@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.task-container {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    border: solid 1px #FFF;
+    padding: 1em;
+    border-radius: 25px;
+    align-items: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.content-box {
+    display: inline;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: none;
+}
